@@ -22,6 +22,6 @@
   <a href="https://www.linkedin.com/in/felipisantana" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
-- 🔭 Atualmente trabalho como desenvolvedor fullstack pleno na Stefanini
+- 🔭 Atualmente trabalho como desenvolvedor fullstack
 - 🌱 Estou estudando os frameworks nextjs e nestjs dando ênfase na linguagem typescript
 - 💬 Trabalhei com a linguagem python durante um bom tempo, utilizando o framework django.
